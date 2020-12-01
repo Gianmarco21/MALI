@@ -1,0 +1,108 @@
+Body{
+    font-family: Poppins;
+    background-color: darkgrey;
+    background-repeat: repeat-y;
+    background-size: 100%;
+    font-size: 30px;
+}
+
+#container{
+    width: 80%;
+    margin : 0px auto;
+    border: 2px blue;
+
+}
+
+img{
+    width:  400px;
+    height: 500px;
+    border-bottom: white;
+    border-radius: 10px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+header{
+    float: left;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+    color: blue;
+    border-bottom: 2px white;
+}
+nav img{
+    float: left;
+}
+nav ul li {
+    float: right;
+    list-style: none;
+    margin: 40px;
+    text-align: center;
+    background: white;
+}
+
+aside{
+    float: right;
+}
+
+#content{
+    font-family: Lato;
+    float: left;
+    color: aliceblue;
+    padding: 100px;
+}
+
+#contenido{
+
+    color: aliceblue;
+    padding: 50px;
+}
+
+#text{
+
+    height: 50px;
+    width: 500px;
+}
+#text1{
+
+    height: 50px;
+    width: 500px;
+}
+#text2{
+
+    height: 50px;
+    width: 500px;
+}
+#text3{
+
+    height: 50px;
+    width: 500px;
+}
+
+#text4{
+
+    height: 50px;
+    width: 500px;
+}
+
+#text5{
+
+    height: 50px;
+    width: 500px;
+}
+
+#textdescripcion{
+
+    height: 200px;
+    width: 900px;
+}
+footer{
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
